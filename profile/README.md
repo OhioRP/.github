@@ -9,7 +9,6 @@
 <p>
 
 ## Goals
-- [ ] Have all Minecraft blocks just for the sake of compatibily. All the blocks must be at least craftable.
 - [ ] Create a tool to convert Minecraft worlds into minetest ones. We can use [AmuletMC](https://www.amuletmc.com/) as a base.
 - [ ] Have a system to live translate chat messages. This implies that we would also have a voice chat system.
 - [ ] Have cool features that go beyond Minecraft's.
